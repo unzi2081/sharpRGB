@@ -1,0 +1,6 @@
+C:\Users\unzi2\source\repos\SharpRGB\bin\Debug\SharpRGB.dll
+C:\Users\unzi2\source\repos\SharpRGB\bin\Debug\SharpRGB.pdb
+C:\Users\unzi2\source\repos\SharpRGB\obj\Debug\SharpRGB.csproj.AssemblyReference.cache
+C:\Users\unzi2\source\repos\SharpRGB\obj\Debug\SharpRGB.csproj.CoreCompileInputs.cache
+C:\Users\unzi2\source\repos\SharpRGB\obj\Debug\SharpRGB.dll
+C:\Users\unzi2\source\repos\SharpRGB\obj\Debug\SharpRGB.pdb
